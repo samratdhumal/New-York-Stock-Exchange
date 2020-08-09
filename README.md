@@ -29,12 +29,10 @@
 •	The Altman Z-Score is used to predict the likelihood that a business will go bankrupt within the next two years <br />
 •	The formula is based on information found in the income/balance sheet of an organization<br />
 •	It is given by:<br />
-#### 		&nbsp;&nbsp;&nbsp;&nbsp;			Z = 1.2*A + 1.4*B + 3.3*C +0.6*D + 1*E
+#### 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			Z = 1.2*A + 1.4*B + 3.3*C +0.6*D + 1*E
 where, <br />
 A = working capital / total assets<br />
 B = retained earnings / total assets<br />
 C = earnings before interest and tax / total assets<br />
 D = market value of equity / book value of equity<br />
 E = sales / total assets
-
-
