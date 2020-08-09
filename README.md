@@ -1,4 +1,4 @@
-# New York Stock Exchange Stock Prediction                                                                                                                                2019
+# New York Stock Exchange Stock Prediction
 ## Technology Used: R, PLOTLY, Holt-Winters, Altman Z-Score
 ##    Predicted the future stock prices using Holt-Winters for time series data & determined the companies that might get bankrupt in the near future using the Altman Z-Score.
 
